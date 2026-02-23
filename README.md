@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey there! I'm Sweta Devi 👋
 
-<!--
-**Sweta-Devi269/Sweta-Devi269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+while(alive) { learn(); explore(); build(); }
 
-Here are some ideas to get you started:
+⚡ Just a curious student who fell down the coding rabbit hole — and never looked back!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm up to
+- 🔭 Exploring the vast worlds of **Data Science**, **Web Tech** & **AI/ML**
+- 🌱 Currently learning **DSA** with Python & C++
+- 💻 Wrangling **C**, **C++** & **Python** every day
+- 🤝 Open to collaborations — let's build something cool together!
+- ❤️ Open source enthusiast
+
+## 🗺️ The journey's just getting started and there's so much to explore!
