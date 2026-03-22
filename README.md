@@ -1,5 +1,9 @@
-# 💫 About Me:
-Hey there! I'm Sweta Devi, currently pursuing BCA based in India.<br>This is a fresh profile where I will be documenting my Tech journey.<br><br>
+
+<h3><b>Hey there! 👋</b></h3>
+Welcome to my Tech Journal!<br><br>
+I'm Sweta, a college student from Assam, India, currently pursuing my BCA.<br>
+This is where I document my tech journey — the things I learn, the projects
+I build, and the experiences I collect along the way.<br><br>
 
 # 🚀 What I'm up to
 Exploring the vast worlds of Data Science, Web Tech & AI/ML<br>🌱 Currently learning DSA with Python & C++<br>
